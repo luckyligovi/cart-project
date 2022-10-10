@@ -15,7 +15,7 @@ function About() {
       <Accordion.Item eventKey="1">
         <Accordion.Header>Accordion Item #2</Accordion.Header>
         <Accordion.Body>
-   hfgdlsalgf
+        The Google pixel is the best phone in this category. Buy while stocks last! Only 65 remaining. Visit out store now.
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="2">
