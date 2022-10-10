@@ -66,7 +66,7 @@
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  background-color: rgb(193, 193, 193);
+  background-color: rgb(182, 178, 178);
 }
 
 div.transbox {
@@ -84,7 +84,7 @@ div.transbox section {
 
 div.transbox h1 {
   font-weight: bold;
-  color: #ffffff;
+  color: #342d5697;
   padding: 0 0 10px 0;
 }
 

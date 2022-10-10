@@ -9,7 +9,7 @@ function About() {
       <Accordion.Item eventKey="0"> 
         <Accordion.Header>Accordion Item #1</Accordion.Header>
         <Accordion.Body>
-      hggsghwohegh
+        The Samsung Galaxy S7 is the best phone in this category. Buy while stocks last! Only 10 remaining. Visit out store now.
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
