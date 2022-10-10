@@ -21,7 +21,8 @@ function About() {
       <Accordion.Item eventKey="2">
         <Accordion.Header>Accordion Item #3</Accordion.Header>
         <Accordion.Body>
- isdhjpvgtuhoh
+        The Xiaomi Redmi Note 2 is the best phone in this category. Buy while stocks last! Only 21 remaining. Visit out store now.
+ 
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>
