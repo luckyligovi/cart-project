@@ -15,6 +15,7 @@
 This is an online app used to buy phones.The user can select the phone he/she wants to buy.
 
 ## link
+You can view the live page from [here](https://best-phones.netlify.app)
 ## Authors
 - Lucky ligovi
 
