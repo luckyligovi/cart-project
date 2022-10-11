@@ -10,3 +10,8 @@
   - [Licenses](#licenses)
   ## Preview
 ![alt text][preview]
+
+## Description
+This is an online app used to buy phones.The user can select the phone he/she wants to buy.
+
+## link
