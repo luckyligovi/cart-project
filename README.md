@@ -15,7 +15,7 @@
 This is an online app used to buy phones.The user can select the phone he/she wants to buy.
 
 ## link
-## Authors(Medicat-cartel)
+## Authors
 - Lucky ligovi
 
 ## Setup
@@ -24,3 +24,16 @@ This is an online app used to buy phones.The user can select the phone he/she wa
 - Proceed with the steps below
 
 ### Live server on terminal
+- open the folder at the terminal
+- run the command 'npm instal'
+- then run 'npm start'
+- this will open a window in your browser at terminal 3000, or otherwise specified.
+- (optional) if you do not have the live server extension installed, install it
+  - installation instructions can be found here: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- You can now view the app in the browser at [cart-project](http://localhost:3000)
+## Licenses
+This project is licensed under the [BSD 2-Clause License ](./LICENSE)
+
+Copyright (c) 2022 Lucky ligovi
+
+[preview]: ./src/components/assets/images/splash.png "preview" 
