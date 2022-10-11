@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import Stack from 'react-bootstrap/Stack';
+// import Stack from 'react-bootstrap/Stack';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Placeholder from 'react-bootstrap/Placeholder';
-import ListGroupItem from 'react-bootstrap/esm/ListGroupItem';
+// import ListGroupItem from 'react-bootstrap/esm/ListGroupItem';
 import Footer from "./Footer";
 
 function Phones( {data, cart, setCart, url, imgPlaceholder} ) {
