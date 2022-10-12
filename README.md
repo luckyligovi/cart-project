@@ -1,6 +1,6 @@
 # cart-project
 
-- [Medicat App](#cart project)
+- [cart-project](#cart project)
   - [Preview](#preview)
   - [Description](#description)
   - [link](#link)
