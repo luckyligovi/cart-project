@@ -53,20 +53,17 @@
   text-align: center;
   min-height: 100vh;
   padding: 1rem;
-}
-
-.about {
-  min-height: 100vh;
-  z-index: 1;
-}
-
-.home {
   background: url("./components/assets/images/splash.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
   background-color: rgb(182, 178, 178);
+}
+
+.about {
+  min-height: 100vh;
+  z-index: 1;
 }
 
 div.transbox {
