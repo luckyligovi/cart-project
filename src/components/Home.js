@@ -10,7 +10,7 @@ function Home() {
     <article className="home">
       <div className="transbox">
         <section>
-          <h1>My Phone Cart</h1>
+          <h1>The Phone Cart App</h1>
              <div>
               <p>Get out and stretch your imagination</p>
              </div>
